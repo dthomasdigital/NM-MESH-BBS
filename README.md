@@ -1,8 +1,6 @@
 # NM MESH BBS Meshtastic Version
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1OZ22Z)
-
-This is the TC²-BBS system integrated with Meshtastic devices. The system allows for message handling, bulletin boards, mail systems, and a channel directory.
+This is a fork of the TC²-BBS system integrated with Meshtastic devices. The system allows for message handling, bulletin boards, mail systems, and a channel directory. This fork is to add things spesific to the New Mexico Albuquerque Metro Area Meshtastic Mesh.
 
 ### Docker
 
@@ -248,4 +246,5 @@ For the JS8Call side of things, big thanks to Jordan Sherer for JS8Call and the 
 ## License
 
 GNU General Public License v3.0
+
 
