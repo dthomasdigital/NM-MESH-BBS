@@ -1,4 +1,4 @@
-# TC²-BBS Meshtastic Version
+# NM MESH BBS Meshtastic Version
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1OZ22Z)
 
@@ -248,3 +248,4 @@ For the JS8Call side of things, big thanks to Jordan Sherer for JS8Call and the 
 ## License
 
 GNU General Public License v3.0
+
